@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer.<br>I'm currently working on a blog module application that can be integrated on any html websites.
+I'm a web developer.<br>
 
 
 ## 🌐 Socials:
